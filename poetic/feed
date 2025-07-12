@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Poetic</title>
+	<atom:link href="https://llgt.cafe/tag/poetic/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Sun, 05 Feb 2023 17:35:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>Tomorrow</title>
+		<link>https://llgt.cafe/tomorrow</link>
+					<comments>https://llgt.cafe/tomorrow#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Sun, 05 Feb 2023 17:35:12 +0000</pubDate>
+				<category><![CDATA[Relational]]></category>
+		<category><![CDATA[Spiritual]]></category>
+		<category><![CDATA[Poetic]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=424</guid>
+
+					<description><![CDATA[Yesterday I woke up earlyI wrote the post for my blog andAfter stopping at the storeFor breakfast I went to church toHelp with parking At the church, I sawA young lady whoSeemed unsure of herself andHer reason for being there, soI walked over to a&#160;<a class="read-more" href="https://llgt.cafe/tomorrow">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Yesterday I woke up early<br>I wrote the post for my blog and<br>After stopping at the store<br>For breakfast I went to church to<br>Help with parking</p>
+
+
+
+<p>At the church, I saw<br>A young lady who<br>Seemed unsure of herself and<br>Her reason for being there, so<br>I walked over to a table where<br>Pastries lay. I picked one up, walked over and handed<br>It to the young lady. She smiled and so did I. Maybe<br>I was able to help her<br>In some way to<br>Feel more comfortable</p>
+
+
+
+<p>Yesterday, I talked to a woman about her old home in<br>Colorado and her new church family in Arkansas.<br>It was cold out and her son didn’t yet want<br>To get into the car. I showed him my flashlight and<br>Told him that he could have it if he got in his mom’s car.<br>Maybe, I helped her, too</p>
+
+
+
+<p>Yesterday, I started writing my book<br>I wrote until I could write no more<br>Then I took a nap<br>Then I called my friend and<br>Wrote more</p>
+
+
+
+<p>Today, I put the finishing touches<br>On my book. I printed<br>It</p>
+
+
+
+<p>What now? I’m not<br>Sure. I guess we will have<br>To find out together</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/tomorrow/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

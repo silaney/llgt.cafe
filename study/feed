@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Study</title>
+	<atom:link href="https://llgt.cafe/tag/study/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Nov 2022 17:58:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>Keep Going, Keep Growing</title>
+		<link>https://llgt.cafe/keep-going-keep-growing</link>
+					<comments>https://llgt.cafe/keep-going-keep-growing#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 17:58:51 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[LLGT]]></category>
+		<category><![CDATA[Study]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=142</guid>
+
+					<description><![CDATA[When we learn something, we take in knowledge either through study or by having someone teach us. Learning is meant, in some way to change what we do, what we know, how we do, or how well we do something. We can, for example, learn&#160;<a class="read-more" href="https://llgt.cafe/keep-going-keep-growing">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>When we learn something, we take in knowledge either through study or by having someone teach us. Learning is meant, in some way to change what we do, what we know, how we do, or how well we do something. We can, for example, learn a new language, learn about places in other parts of the world, or learn the history of our won country.</p>
+
+
+
+<p>Learning, like exercise, isn’t always fun, and it’s not always easy. It may involve subjects that we are not interested in. And we may even find ourselves trying and failing at what we are trying to learn. Yet, like exercise, learning is a choice. And the only way that we can completely avoid the possibility of failure is to do nothing.</p>
+
+
+
+<p>Learning is meant to have some impact on our lives. Not only does it give us a stronger and healthier brain, it should have a positive impact on our lives. That isn’t to say that everything that is taught is worth learning, but the things that are worth learning should make some sort of change in our lives.</p>
+
+
+
+<p>In high school and college, much of what we learn is measured only in our ability to successfully pass a test. In college or in a trade school, we may learn a particular skill — anything form home making to computer programming, to practicing medicine — that we can take and either find a job or start our own business. But even the best high schools and colleges cannot teach us everything that we need to survive and thrive in an ever-changing world.</p>
+
+
+
+<p>Rather than seeing learning as a sprint, we should see it as a marathon. We shouldn’t think that once we have finished high school or even college that we can stop learning and coast along on the knowledge that we have already gained. Instead, we should see it as a marathon, or an ongoing race. We complete one mile, not so that we can stop and rest, but so that we can begin the next mile.</p>
+
+
+
+<p>Learning may or may not make us better than anyone else at something, but it should make us better at something, today, than we were yesterday. Whether we learn though reading, listening, watching, or doing, we should always seek to be better than we were, yesterday. Even if we make mistakes, or fail along the way. Because, in a way, failure can be one of life’s best teachers.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/keep-going-keep-growing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

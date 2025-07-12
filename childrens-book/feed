@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>children&#8217;s book</title>
+	<atom:link href="https://llgt.cafe/tag/childrens-book/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Thu, 11 Jul 2024 16:10:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>Who Am I?</title>
+		<link>https://llgt.cafe/who-am-i-2</link>
+					<comments>https://llgt.cafe/who-am-i-2#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2024 16:08:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[children's book]]></category>
+		<category><![CDATA[God]]></category>
+		<category><![CDATA[Jesus]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=1131</guid>
+
+					<description><![CDATA[I&#8217;m excited to present my first children&#8217;s book, &#8220;Who Am I? Who Are you?&#8221; It&#8217;s the first in a &#8220;series&#8221; of free books, designed to help parents/guardians/other interact with small children and those developmentally challenged. I like it and hope you will, too. More information&#160;<a class="read-more" href="https://llgt.cafe/who-am-i-2">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;m excited to present my first children&#8217;s book, &#8220;Who Am I?  Who Are you?&#8221;  It&#8217;s the first in a &#8220;series&#8221; of free books, designed to help parents/guardians/other interact with small children and those developmentally challenged.  I like it and hope you will, too.  </p>
+
+
+
+<p>More information is available at the end of the book.  This is a first draft and it may changed.  If you wish to comment, please be kind.  Respect goes a long way.</p>
+
+
+
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img fetchpriority="high" decoding="async" width="630" height="1000" class="wp-block-cover__image-background wp-image-1132" alt="" src="https://llgt.cafe/wp-content/uploads/2024/07/Screen-Shot-2024-07-11-at-10.10.44-AM.png" data-object-fit="cover" srcset="https://llgt.cafe/wp-content/uploads/2024/07/Screen-Shot-2024-07-11-at-10.10.44-AM.png 630w, https://llgt.cafe/wp-content/uploads/2024/07/Screen-Shot-2024-07-11-at-10.10.44-AM-189x300.png 189w" sizes="(max-width: 630px) 100vw, 630px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"></p>
+</div></div>
+
+
+
+<p>Ralph</p>
+
+
+
+<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://llgt.cafe/wp-content/uploads/2024/07/Who-Am-I-PDF.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Who-Am-I-PDF."></object><a id="wp-block-file--media-e65c53ef-7514-4097-86fd-d94a15114c0a" href="https://llgt.cafe/wp-content/uploads/2024/07/Who-Am-I-PDF.pdf">Who-Am-I-PDF</a><a href="https://llgt.cafe/wp-content/uploads/2024/07/Who-Am-I-PDF.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-e65c53ef-7514-4097-86fd-d94a15114c0a">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/who-am-i-2/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

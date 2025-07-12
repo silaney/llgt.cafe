@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Weclome</title>
+	<atom:link href="https://llgt.cafe/tag/weclome/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Oct 2022 16:31:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>Welcome</title>
+		<link>https://llgt.cafe/welcome</link>
+					<comments>https://llgt.cafe/welcome#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 16:31:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[LLGT]]></category>
+		<category><![CDATA[Weclome]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=16</guid>
+
+					<description><![CDATA[Oh, hi. Welcome. Thanks for stopping by. I’m the owner, chef, barista, waiter and chief bottle washer of LLGT Cafe. Have a seat and I will tell you about my cafe. LLGT stands for Laugh, Learn and Grow, to the Power of Together. It welcomes&#160;<a class="read-more" href="https://llgt.cafe/welcome">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Oh, hi. Welcome. Thanks for stopping by. I’m the owner, chef, barista, waiter and chief bottle washer of LLGT Cafe. Have a seat and I will tell you about my cafe.</p>
+
+
+
+<p>LLGT stands for Laugh, Learn and Grow, to the Power of Together. It welcomes everyone. You don’t have to agree with me, but I do expect my customers to respect on another. You con’t have to agree. Just be open to other people’s opinions.</p>
+
+
+
+<p>Laugh: Why is it that children can laugh so much when adults (like myself) find it so difficult to find the humor in things? Perhaps we become too serious.</p>
+
+
+
+<pre class="wp-block-code"><code> “A merry heart doeth good like a medicine: but a broken spirit drieth the bones.”  
+                            — Proverbs 17:22 KJV</code></pre>
+
+
+
+<p>Learn: I believe that everyone that we come across in life has something to teach us. Likewise, every situation that we find ourselves in has the power to teach us something about ourselves, the world around us, and the God who created both.</p>
+
+
+
+<p>Grow: My parents taught me that if something is not growing, it is dying. So, I want to keep growing. As a person grows, his cells divide on a cellular level. Her mind and body change over time. What is true today may not be true tomorrow. Like the shifting sand, life is continually changing in one way or another.</p>
+
+
+
+<p>Together: Over the years, I have learned the power of working with others in doing various jobs. Yes, one person can often do a job, alone. But two people can often do greater things than one, alone. There is no collaboration without at least two people. Besides, one person can catch the mistakes of another; the more experienced can teach the newcomer.</p>
+
+
+
+<p>My hope is that you will find LLGT Cafe a welcoming place to come every day. I can’t do this alone. Together we can grow. Together, we can learn. And, perhaps, we can find things to laugh about along the way.</p>
+
+
+
+<p>When you come back, bring a friend with you. When you have time, I would love to hear your story.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/welcome/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

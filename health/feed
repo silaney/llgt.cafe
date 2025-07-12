@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Health</title>
-	<atom:link href="https://llgt.cafe/category/health/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://llgt.cafe/tag/health/feed" rel="self" type="application/rss+xml" />
 	<link>https://llgt.cafe</link>
 	<description></description>
-	<lastBuildDate>Sat, 03 Aug 2024 14:37:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Apr 2023 16:38:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,566 +20,280 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
-		<title>Laughter is Good Medicine</title>
-		<link>https://llgt.cafe/laughter-is-good-medicine</link>
-					<comments>https://llgt.cafe/laughter-is-good-medicine#respond</comments>
+		<title>Fact or Fiction</title>
+		<link>https://llgt.cafe/fact-or-fiction</link>
+					<comments>https://llgt.cafe/fact-or-fiction#respond</comments>
 		
 		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Sat, 03 Aug 2024 14:37:19 +0000</pubDate>
-				<category><![CDATA[Health]]></category>
-		<category><![CDATA[Humor]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=1234</guid>
-
-					<description><![CDATA[If humor is good medicine, don’t forget to take yours. Here are some jokes you might enjoy. Remember, be kind. I’m going to try to make these up on my own. Judy: “You can’t sit here, this seat is saved.”Frank: “Good, I’ve been praying for&#160;<a class="read-more" href="https://llgt.cafe/laughter-is-good-medicine">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>If humor is good medicine, don’t forget to take yours. Here are some jokes you might enjoy. Remember, be kind. I’m going to try to make these up on my own.</p>
-
-
-
-<p>Judy: “You can’t sit here, this seat is saved.”<br>Frank: “Good, I’ve been praying for it.”</p>
-
-
-
-<p>Judy: “Can you help me change this lightbulb?”<br>Frank: “Lord, we ask that You would help this bulb change.”</p>
-
-
-
-<p>Judy: “Do you think God has a sense of humor?”<br>Frank: “He made me, didn’t he?”</p>
-
-
-
-<p>Judy: “Have you seen the weather forecast?”<br>Frank: “It’s going to be rainy HOT.”<br>Judy: “Rainy HOT?”<br>Frank: “Yes, it’s going to be raining here or there.”</p>
-
-
-
-<p>Frank: “Did you hear about the dog that walked twelve miles to visit his Pa and Grandpa?”<br>Judy: “No, tell me more.”<br>Frank: “When he got there, his Pas were tired.”</p>
-
-
-
-<p>Judy: “How did your trip to Germany go?”<br>Frank: “It went well. But one day, I was out and I heard music playing; it seemed to be playing backwards.”<br>Judy: “Backwards?”<br>Frank: “Yes, so I followed it.”<br>Judy: “Where did it lead?”<br>Frank: “It led me to a cemetery, where I found the ghost of Beethoven.”<br>Judy: “What did he say.”<br>Frank: “Don’t bother me, I’m decomposing.”</p>
-
-
-
-<p>Frank: “Knock-knock.”<br>Judy: “Who’s there?”<br>Frank: “Bacon.”<br>Judy: “Bacon, who?”<br>Frank: “Seriously, Judy, bacon is no joke.”</p>
-
-
-
-<p>I hope at least one of these made you smile. If you have your own jokes — remember to keep them clean — please comment below and have a great weekend.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/laughter-is-good-medicine/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Share a Hug Day</title>
-		<link>https://llgt.cafe/share-a-hug-day</link>
-					<comments>https://llgt.cafe/share-a-hug-day#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Tue, 30 Jul 2024 14:42:37 +0000</pubDate>
-				<category><![CDATA[Health]]></category>
-		<category><![CDATA[Holidays]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=1220</guid>
-
-					<description><![CDATA[Share a Hug Day It’s tragic. A man returning home from vacation was hit by a truck that failed to stop and his wife and one of his two sons were killed in the accident. Yet, even out of tragedy, we can find reason to&#160;<a class="read-more" href="https://llgt.cafe/share-a-hug-day">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Share a Hug Day</p>
-
-
-
-<p>It’s tragic. A man returning home from vacation was hit by a truck that failed to stop and his wife and one of his two sons were killed in the accident. Yet, even out of tragedy, we can find reason to celebrate life.</p>
-
-
-
-<p>Share a Hug Day, it seems, was born out of that tragedy. Though it cannot be assumed that everyone feels comfortable receiving a hug, it should be okay to ask. If the other person is okay being hugged, hug away.</p>
-
-
-
-<p>By the way, hugs are good medicine.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/share-a-hug-day/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Win-Win</title>
-		<link>https://llgt.cafe/win-win</link>
-					<comments>https://llgt.cafe/win-win#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Wed, 17 Jul 2024 14:36:05 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Did you know?]]></category>
-		<category><![CDATA[Faith]]></category>
-		<category><![CDATA[Food]]></category>
-		<category><![CDATA[Friends]]></category>
+		<pubDate>Sun, 23 Apr 2023 16:38:05 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
 		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Open for Discussion]]></category>
-		<category><![CDATA[Personal Stories]]></category>
+		<category><![CDATA[LLGT]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=744</guid>
+
+					<description><![CDATA[It can be difficult to know what foods and supplements are okay and which are not as good for you. Most of the things that someone can find in a health food store haven’t been clinically tested because of the cost and, all too often,&#160;<a class="read-more" href="https://llgt.cafe/fact-or-fiction">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>It can be difficult to know what foods and supplements are okay and which are not as good for you. Most of the things that someone can find in a health food store haven’t been clinically tested because of the cost and, all too often, the things that have been tested come back later, showing to cause cancer in lab rats.</p>
+
+
+
+<p>I go into the health food store from time to time and see all of the health supplements on the shelves but have no idea what many of them do. Most of them aren’t cheap, either, so there’s no chance of trying these things for the fun of it, especially when any improvement may not be immediately evident.</p>
+
+
+
+<p>Even if you can find something that works immediately, it’s hard to get others to try it. People are reluctant to try new things, especially when they don’t know much about it and haven’t done the research on their own.</p>
+
+
+
+<p>Diets are much the same. A diet may work well, but someone may have heard something bad about that diet, so they don’t w want to try it. And like supplements, diets aren’t clinically tested because there is no one to pay the hundreds of thousands of dollars needed to conduct the trials.</p>
+
+
+
+<p>Another problem is that the things that are “good for you” are often more expensive. I tried the keto diet for about nine months and I lost about 35 pounds. Yet, it was costing me around $300 per month in food and supplements. And when circumstances changed, I wasn’t able to follow the diet any more.</p>
+
+
+
+<p>It used to be that snake oil salesmen went from town to town trying to make money off of unsuspecting individuals. These salesmen would make claims about a product that they were selling that were just plain fraud. These days, a company can’t label his product as healthy due to regulations, but another can label label its product as all natural because part of the product is natural.</p>
+
+
+
+<p>My advise: do your own research. You can try to educate others, but don’t be surprised if they aren’t interested. In the end, it’s best to not spend too much time worrying about it because worry and stress isn’t good for the body, either. Find someone you trust or check out different sources, then you decide what’s best.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/fact-or-fiction/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Now?</title>
+		<link>https://llgt.cafe/what-now</link>
+					<comments>https://llgt.cafe/what-now#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 15:47:37 +0000</pubDate>
+				<category><![CDATA[Career]]></category>
+		<category><![CDATA[Creativity]]></category>
+		<category><![CDATA[Did you know?]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Emotional]]></category>
+		<category><![CDATA[Emotions]]></category>
+		<category><![CDATA[Faith]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[Fitness]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Hobbies]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Ideas]]></category>
 		<category><![CDATA[Question]]></category>
 		<category><![CDATA[Relational]]></category>
 		<category><![CDATA[Spiritual]]></category>
-		<category><![CDATA[Think About It]]></category>
 		<category><![CDATA[Tips]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=1169</guid>
-
-					<description><![CDATA[The power went out some time after 7:30 AM. I found out some time around 8 AM. It seems that the rain caused a tree limb to droop down low enough to hit a power line. It’s an easy fix for the power company. But&#160;<a class="read-more" href="https://llgt.cafe/win-win">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>The power went out some time after 7:30 AM. I found out some time around 8 AM. It seems that the rain caused a tree limb to droop down low enough to hit a power line.</p>
-
-
-
-<p>It’s an easy fix for the power company. But if I hadn’t seen the power company truck, I would not have known.</p>
-
-
-
-<p>What if the power weren’t back on. What would I do if the power outage were more widespread? After a tornado hit neighboring towns a little over 2 years ago, the place where I work lost power for three days.</p>
-
-
-
-<p>Fortunately, I have backup lights, and that’s a good place to start. But that’s only a start. I can’t make my instant coffee and, if the power were still out, I wouldn’t want to open my fridge.</p>
-
-
-
-<p>So, what is it that I need if the power goes out for an extended time — say, a week or more?</p>
-
-
-
-<p>Light<br>Light comes in handy. And, if you have light, it helps to see what you are doing. Along with that is the batteries to power that light.</p>
-
-
-
-<p>Water<br>Water may be next, if the water fails to run. LifeStraws are also a good source of clean water. They filter water that is not drinkable and makes it drinkable.</p>
-
-
-
-<p>Sheler<br>Assuming that there is no structural damage, as in an earthquake or tornado, some form of protection from the heat or cold may be needed. A battery powered fan may be useful. Extra blankets can also help; sleeping bags work, too.</p>
-
-
-
-<p>Food<br>Canned goods may be important. Try to stick with things that you know that you will use, whether in an emergency or not. If you won’t eat it before it expires, you probably shouldn’t buy it.</p>
-
-
-
-<p>Planning<br>This includes making plans of what to do if the power goes out. You may check to see if there is still radio. If there is, great. If not, wait. Phone service may or may not work. Check the weather to see if it is raining. You may also check to see if anyone else is without power. If they have power, it’s likely that the problem is in your home or apartment. If you know your neighbors, you may be able to help them with their needs.</p>
-
-
-
-<p>Planning can help with a lot of issues in an emergency, such as a power outage. But it can’t solve every issue that might arise. I find that prayer goes a long way, too. In an emergency, teamwork goes much further. It’s a win-win situation.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/win-win/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>National Personal Chef Day</title>
-		<link>https://llgt.cafe/national-personal-chef-day</link>
-					<comments>https://llgt.cafe/national-personal-chef-day#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Tue, 16 Jul 2024 16:41:34 +0000</pubDate>
-				<category><![CDATA[Did you know?]]></category>
-		<category><![CDATA[Food]]></category>
-		<category><![CDATA[Fun Facts]]></category>
-		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Holidays]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=1166</guid>
-
-					<description><![CDATA[Today is National Personal Chef Day This is exciting. Whether you currently have a personal chef or you can barely afford your next meal, this day is for you. No, really. Having a personal chef may be a great idea and, if you are thinking&#160;<a class="read-more" href="https://llgt.cafe/national-personal-chef-day">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Today is National Personal Chef Day</p>
-
-
-
-<p>This is exciting. Whether you currently have a personal chef or you can barely afford your next meal, this day is for you.</p>
-
-
-
-<p>No, really. Having a personal chef may be a great idea and, if you are thinking about hiring one, the prices may be better than you thought. If another PBJ sandwich seems on the horizon, this information could help.</p>
-
-
-
-<p>If you want the services of a personal chef, these tips could help.</p>
-
-
-
-<p>Figure out a budget. Is your food budget $10, $100, or $1,000? It’s important to know. And, if need be, you can use cash.</p>
-
-
-
-<p>Collecting coupons may help reduce the cost of groceries. I find basic ingredients — eggs, flour, milk and such — work best. Add a few ingredients, and there are so many things that you can make.</p>
-
-
-
-<p>Plan your meals, based on simple recipes. The simpler the foods, the more likely you are to stick to the plan. Some things, like a dry pancake mix, can be made up ahead of time. A planner may come in handy, where you can plan a shopping day as well as menu options.</p>
-
-
-
-<p>Note: it’s better to have extra options instead of having too few and having to go back to the store to buy one or two items (snacks).</p>
-
-
-
-<p>Here are some options:<br>Oatmeal<br>Ground beef<br>Burger Buns<br>Carrots (cooked or uncooked)<br>Noodles<br>Soups<br>Mixed Greens</p>
-
-
-
-<p>These are just a few things that you can buy. The thing to remember is to buy according to the menu plan and to the budget. Keep in mind that food often costs more than we expect. It may be better to overestimate the cost of food.</p>
-
-
-
-<p>One helpful purchase might be containers. You can portion out food and place it in storage: the pantry, fridge or freezer. If you like, you can either label these containers with “Use By” dates, the name of the item, or the date and meal that you intend to use it. Some things freeze well, while others don’t. Some things, like mixed greens, may need to be made into a salad at the last minute.</p>
-
-
-
-<p>So many recipes are available online. If you are in the mood for chicken, see if you can buy chicken in bulk, even if you have to portion it out and freeze it. Just don’t do as I did once and leave it out overnight. Oops.</p>
-
-
-
-<p>Keep a running list of groceries and, remember, you don’t have to buy everything on the list: just what you absolutely need and can afford. Soup may mean canned, or fresh ingredients for the same.</p>
-
-
-
-<p>These tips from a person chef wanna-be are free and could save you a lot of money. Of course, you can also go out to eat. Restaurants these days are struggling. Just don’t make it your job to keep them in business.</p>
-
-
-
-<p>Let me know your ideas. Thanks, in advance.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/national-personal-chef-day/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Time Off</title>
-		<link>https://llgt.cafe/time-off</link>
-					<comments>https://llgt.cafe/time-off#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Sat, 15 Jul 2023 14:01:36 +0000</pubDate>
-				<category><![CDATA[Health]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=1007</guid>
-
-					<description><![CDATA[I’m going to take time off today from writing. Each of us needs to take the day off now and then — to rejuvenate and refresh our minds and bodies. If we don’t — if we go to long without taking time off — we&#160;<a class="read-more" href="https://llgt.cafe/time-off">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>I’m going to take time off today from writing. Each of us needs to take the day off now and then — to rejuvenate and refresh our minds and bodies. If we don’t — if we go to long without taking time off — we can burn out and our bodies or minds may force us to take time off because of sickness or depression.</p>
-
-
-
-<p>Now, you may say, “I can’t take time off. There’s just too much to do.” But maybe you can take ten minutes here or there to relax, be thankful, or just enjoy life. Maybe you can take the time to take deep breaths — ten seconds breathing in, holding your breath and breathing out slowly. This can do so much to relieve stress.</p>
-
-
-
-<p>Put on some relaxing music, go for a walk or draw. All of these things can help with stress and help refresh the mind. You don’t have to take the whole day for one activity. Just spending a little time can help.</p>
-
-
-
-<p>If you can, find someone else to do some of the things that need to be done, even if you have to pay them, assuming you have the money and someone that you can trust.</p>
-
-
-
-<p>Time off is just as important as the time we spent working and it cannot be ignored or put off indefinitely. It we try, it will eventually catch up with us. So, remember, now and then to take a little time off.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/time-off/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Environmental Changes</title>
-		<link>https://llgt.cafe/environmental-changes</link>
-					<comments>https://llgt.cafe/environmental-changes#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Sun, 02 Jul 2023 16:27:55 +0000</pubDate>
-				<category><![CDATA[Fitness]]></category>
-		<category><![CDATA[Food]]></category>
-		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=952</guid>
-
-					<description><![CDATA[If you want to loose weight, changing your environment might help. You may not be able to remove that pizza parlor from your neighborhood, or find a way to avoid passing by the donut shop on the way to work, but there are some things&#160;<a class="read-more" href="https://llgt.cafe/environmental-changes">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>If you want to loose weight, changing your environment might help. You may not be able to remove that pizza parlor from your neighborhood, or find a way to avoid passing by the donut shop on the way to work, but there are some things that you can do at home to make loosing weight easier.</p>
-
-
-
-<p>First, get rid of the high calorie snack foods, like cookies, sodas and even chips. I don’t mean that you should go on a binge. If you can’t give them away, maybe it would be a good idea to throw them out.</p>
-
-
-
-<p>Next, you look for ready to eat foods that you can eat. You may find vegetable trays in your deli or produce department, or prepared fruit salads. Try to avoid the pre-made dressings. Things like plain yogurt might be a good option.</p>
-
-
-
-<p>Plan ahead. If you have something in the fridge or on the countertop ready to go, you are less likely to look for less healthy options. Also, if you take something when you travel, you are less likely to stop for fast food.</p>
-
-
-
-<p>Finally, try loading your refrigerator with healthier snacks. It may take some work to slice up some carrots, cut up some apples, or cook some brown rice. You can also search the internet for more ideas. You just may find that the extra effort is well worth it.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/environmental-changes/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Had enough?</title>
-		<link>https://llgt.cafe/had-enough</link>
-					<comments>https://llgt.cafe/had-enough#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Wed, 28 Jun 2023 17:58:36 +0000</pubDate>
-				<category><![CDATA[Emotions]]></category>
-		<category><![CDATA[Faith]]></category>
-		<category><![CDATA[Finances]]></category>
-		<category><![CDATA[Food]]></category>
-		<category><![CDATA[Habits]]></category>
-		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Hobbies]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<category><![CDATA[Spiritual]]></category>
 		<category><![CDATA[Bible]]></category>
-		<category><![CDATA[God]]></category>
+		<category><![CDATA[Jesus]]></category>
+		<category><![CDATA[King James Bible]]></category>
+		<category><![CDATA[Learning]]></category>
 		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=931</guid>
+		<guid isPermaLink="false">https://llgt.cafe/?p=533</guid>
 
-					<description><![CDATA[How much is enough? It’s a simple question, right? Last night, I got about four hours sleep. I got to bed late and woke up early. For a few, this might be enough sleep. For me, it’s not. Fortunately, I did get a little more&#160;<a class="read-more" href="https://llgt.cafe/had-enough">&#8230;</a>]]></description>
+					<description><![CDATA[Feeling stuck. Not sure how to get out of the daily grind? Maybe you just want to try something different but aren’t sure where to start. Here are some ideas that may help. Start small. Take a moment to write down a list of things&#160;<a class="read-more" href="https://llgt.cafe/what-now">&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
-<p>How much is enough? It’s a simple question, right? Last night, I got about four hours sleep. I got to bed late and woke up early. For a few, this might be enough sleep. For me, it’s not. Fortunately, I did get a little more sleep after going to an appointment that I had, but it still doesn’t seem like enough.</p>
+<p>Feeling stuck. Not sure how to get out of the daily grind? Maybe you just want to try something different but aren’t sure where to start. Here are some ideas that may help.</p>
 
 
 
-<p>But there are less needed things that make it harder to know when enough is enough. For example, I got another lens for my camera last week. It wasn’t all that expensive compared to most of the lenses that Canon sells and it fills a “need” that my other lenses don’t. But it’s not a need, it’s a want.</p>
+<p>Start small. Take a moment to write down a list of things that you would like to start doing: exercising, eating more vegetables, remembering to feed your dog, for example. Find a place to put this list where you can see this list each morning and throughout the day. I have mine on a dry eras board. If you want to walk each day, start out with a two to ten minute walk. On weekends, I may walk three hours or more, but I try to walk a little each day, even if it’s to the fridge.</p>
 
 
 
-<p>Similarly, there is a mixer on display at Sam’s Club that looks so nice. But it’s not a need or a want, at least not now. And I don’t have room for it in my kitchen. Really the list of things could go on.</p>
+<p>Try joining a church, a church small group for larger churches, or a club. Volunteer for a local charity or for the library. There are so many organizations that can use volunteer help.</p>
 
 
 
-<p>Conversely, there are things that I have in my life from time to time that I would rather not have: frustration, irritation and loneliness, just to name a few. These are just some of the things that I would rather not deal with.</p>
+<p>Seek a new job/career or get a second job. You may have to do this if you loose your current job for whatever reason. Hopefully, this doesn’t happen, but it happens all the time. It can seem like a good thing, but often, it does’t. Either way, put your energy into finding something new and, if possible, exciting.</p>
 
 
 
-<p>Did you know that, according to the Bible, it’s the latter things — the loneliness and frustrations — that draw us closer to or make us more like God? I know it, but it’s easy to forget, especially when we’re “suffering” these things.</p>
+<p>Take up a hobby. There are so many to choose from. Just within art there is photography, watercolor, pastel, color pencil, charcoal, those little fluffy things and so much more. You may even want to take a class that can help you learn a craft and may help you meet others who are also interested in art.</p>
 
 
 
-<p>So, what are we to do? For the first, it’s best to have a budget. It needs to be one that we can stick with, and it should be as close to our actual needs as possible. I say this because things like groceries can be hard to predict, unless we really work hard at planning both the budget and our diet.</p>
+<p>Teach a class. I found a local store, Natural Grocers, that allows me to use their kitchen to teach a class. They also provide me with up to $100 groceries to use as a demo. They do have rules that I am required to follow but nothing too difficult. I’ve only done one class but another is scheduled for next month. Just make sure that, if you decide to teach your class that you know your subject. Curiosity helps, too.</p>
 
 
 
-<p>For the other things, we can learn to deal with them. Breathing exercises — taking a long breath in through the nose, holding it for a few seconds and a long breath out the mouth can help. Just counting slowly to ten can also help.</p>
+<p>Find others to go for walks with. There may be a local photography club, too, as well as writers and speakers clubs. You should be able to do a Google search for local clubs.</p>
 
 
 
-<p>You see, most of our life depends on how we see it. If we see getting a parking ticket as a bad thing, it becomes a bad thing. But if we are able to see it as building patients, it can become a positive thing; that is, if we want to be more patient. For now, I think there might be enough time for another nap.</p>
+<p>The greatest/best change in my life came when I put my faith in Jesus to pay my sin debt and restore a relationship with God. John 3:16 (KJV) tells us that, <strong>“ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”</strong> It gives us what we cannot earn and what none of us deserve: forgiveness, wholeness and eternal life. Some things, we get as soon as we accept God’s gift, while other things take a lifetime to change. A prayer of salvation is just the beginning.</p>
+
+
+
+<p>Change can be hard at times, especially if it is forced on us. But it doesn’t have to be. It’s our decision as to whether we see change as a good or bad thing. Try to see it as a good thing. In one way, change will occur, with or without us.</p>
+
+
+
+<p>Note: I’m not talking about some changes that others may try to force upon us. Even a lie can seem true if you hear it often enough. Keep an open mind to differing views and you should be able to decide what to think about differing issues on your own. Is there a write and wrong? In some cases, yes, but in others, no. You are the one who decides which is which, at least in your own mind. And this, too, may change over time.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://llgt.cafe/had-enough/feed</wfw:commentRss>
+					<wfw:commentRss>https://llgt.cafe/what-now/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Audrey Assad</title>
-		<link>https://llgt.cafe/audrey-assad</link>
-					<comments>https://llgt.cafe/audrey-assad#respond</comments>
+		<title>Cast All Your Cares</title>
+		<link>https://llgt.cafe/cast-all-your-cares</link>
+					<comments>https://llgt.cafe/cast-all-your-cares#respond</comments>
 		
 		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 13:31:46 +0000</pubDate>
-				<category><![CDATA[Emotional]]></category>
-		<category><![CDATA[Emotions]]></category>
-		<category><![CDATA[Faith]]></category>
+		<pubDate>Mon, 23 Jan 2023 16:08:06 +0000</pubDate>
+				<category><![CDATA[Emotions]]></category>
 		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<category><![CDATA[Open for Discussion]]></category>
-		<category><![CDATA[Poetry]]></category>
-		<category><![CDATA[Relational]]></category>
 		<category><![CDATA[Spiritual]]></category>
 		<category><![CDATA[Think About It]]></category>
-		<category><![CDATA[Wants]]></category>
+		<category><![CDATA[Addiction]]></category>
 		<category><![CDATA[Bible]]></category>
 		<category><![CDATA[God]]></category>
 		<category><![CDATA[Jesus]]></category>
 		<category><![CDATA[King James Bible]]></category>
 		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=909</guid>
+		<guid isPermaLink="false">https://llgt.cafe/?p=380</guid>
 
-					<description><![CDATA[This is from my heart. I love her music. If you enjoy Christian music, check out this artist. You won&#8217;t regret it. The Amazon link is below: https://amzn.to/3N3Pg1c]]></description>
+					<description><![CDATA[Last night, I gave all of my worries to Jesus. It felt really good. It’s not the first time that I’ve trusted God with my fears, but I don’t do it nearly often enough. The first time was after a major military exam. I had&#160;<a class="read-more" href="https://llgt.cafe/cast-all-your-cares">&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
-<p>This is from my heart.  I love her music. If you enjoy Christian music, check out this artist.  You won&#8217;t regret it.  The Amazon link is below:</p>
+<p>Last night, I gave all of my worries to Jesus. It felt really good. It’s not the first time that I’ve trusted God with my fears, but I don’t do it nearly often enough. The first time was after a major military exam. I had just taken it that day, and the failure rate was high. I was worried, but I decided to give my worry to Jesus.</p>
 
 
 
-<p><a href="https://amzn.to/3N3Pg1c" target="_blank" rel="noreferrer noopener">https://amzn.to/3N3Pg1c</a></p>
+<p>Maybe you have some worries of your own. I’ve learned to avoid watching television. There is a TV at work and, other than the weather, it’s mostly filled with death and misery and other things that I just don’t want to dwell on.</p>
+
+
+
+<p>Now, it wouldn’t do any good to give Jesus my fears if I hadn’t first trusted him to take away my sins. The Bible tells us that we have all sinned. Romans 3: 23 KJV) tells us that “For all have sinned, and come short of the glory of God.” I could try to convince myself that I’m not really that bad a person, but that wouldn’t take away the fact that, by God’s standards, we are all sinners. Yet, God, who created us, the God who will one day judge his creation, made a way.</p>
+
+
+
+<p>Acts 16:31 (KJV) tells us, “And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.” If we put our faith in Jesus who, tough he was equal with God, put on flesh to pay for our sins, then we will have eternal life. “That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.” — Romans 10:9 (KJV)</p>
+
+
+
+<p>It’s easy to forget, however, that the Bible also tells us, “casting all your care upon him; for he careth for you.” — 1 Peter 5:7 (KJV).</p>
+
+
+
+<p>It is, perhaps, these cares that we carry are behind many of the problems that we face today: poor health, both mentally and physically, as well as a number of addictive behaviors. We may want to stop doing something, but it helps us forget our problems, so we keep doing it. What if, instead, we gave our problems to Jesus?</p>
+
+
+
+<p>It’s too early to know the long term results. I may have to keep giving my cares to Jesus, but I can do that. You can, too.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://llgt.cafe/audrey-assad/feed</wfw:commentRss>
+					<wfw:commentRss>https://llgt.cafe/cast-all-your-cares/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Jesus Loves Me</title>
-		<link>https://llgt.cafe/jesus-loves-me</link>
-					<comments>https://llgt.cafe/jesus-loves-me#respond</comments>
+		<title>Fitness Goals for the New Year</title>
+		<link>https://llgt.cafe/fitness-goals-for-the-new-year</link>
+					<comments>https://llgt.cafe/fitness-goals-for-the-new-year#respond</comments>
 		
 		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 18:16:37 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Creativity]]></category>
-		<category><![CDATA[Did you know?]]></category>
-		<category><![CDATA[Fun Facts]]></category>
-		<category><![CDATA[Habits]]></category>
+		<pubDate>Thu, 29 Dec 2022 11:09:35 +0000</pubDate>
+				<category><![CDATA[Fitness]]></category>
 		<category><![CDATA[Health]]></category>
-		<category><![CDATA[How To]]></category>
-		<category><![CDATA[Personal Growth]]></category>
-		<category><![CDATA[Wants]]></category>
-		<category><![CDATA[Bible]]></category>
-		<category><![CDATA[God]]></category>
-		<category><![CDATA[Jesus]]></category>
-		<category><![CDATA[King James Bible]]></category>
 		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=902</guid>
+		<guid isPermaLink="false">https://llgt.cafe/?p=300</guid>
 
-					<description><![CDATA[&#8220;Jesus loves me, this I know. Just that sometimes, I have to go real slow.&#8221; The trend has long been to do more, faster and better than before. I think we all feel the pressure in some way to get more done. Yet, even God&#160;<a class="read-more" href="https://llgt.cafe/jesus-loves-me">&#8230;</a>]]></description>
+					<description><![CDATA[Physical goals often top one’s list of New Year’s resolutions. And when it comes to our health and the goals that we set, there are a number of options to choose from. Now, I’m not going to say that we are going to start exercising&#160;<a class="read-more" href="https://llgt.cafe/fitness-goals-for-the-new-year">&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
-<p>&#8220;Jesus loves me, this I know.  Just that sometimes, I have to go real slow.&#8221;</p>
+<p>Physical goals often top one’s list of New Year’s resolutions. And when it comes to our health and the goals that we set, there are a number of options to choose from.</p>
 
 
 
-<p>The trend has long been to do more, faster and better than before. I think we all feel the pressure in some way to get more done. Yet, even God took a day off.</p>
+<p>Now, I’m not going to say that we are going to start exercising because it is something that we will enjoy doing, though there are those who truly enjoy a morning run. Personally, I prefer a more leisurely walk, with plenty of time to stop and take pictures along the way. But running and walking are not the only options to choose from.</p>
 
 
 
-<p>There are at least a few ways to take a step back from our work. We just have to figure out what works best for us.</p>
+<p>First, we can choose from a goal based on a certain physical activity, a change in our diet, or one targeted at a possible result of either. For example, we could set a goal ride a bicycle at least 10 miles a week. We could decide we are going to walk or swim at least three times a week. We could decide that we will lift weights five days a week. We could also decide that we want to loose 10 pounds in the next year.</p>
 
 
 
-<p>Plan ahead to do nothing. It could mean that you plan to set aside a few minutes each day, or it could mean that you plan to take a full day off each week. It also means figuring out what you may need to do or to put off in order to take this time.</p>
+<p>In setting our goals, we may need to meet with a health professional, or find a weight trainer, depending on our own unique needs. We may join a gym, or find a group of people whom we can meet with, who will join us in whatever we choose to do, and encourage us along the way. It may take some planning to get us to where we can do the thing that we set to do. In other words, we may not be able to decide that on the first day of the year, we are going to throw on our running shoes and start running and that, in doing so, we will still be running on a regular basis at the end of the year.</p>
 
 
 
-<p>By doing nothing, I don’t mean that you have to lie in bed and not move. What I’m talking about may look like one of the following:</p>
+<p>Physical goals should still meet the SMART goal setting method, meaning they should be<br>specific, measurable, achievable, relevant, and timed. Yet, it is likely that we will also need outside help with this goal — either a professional of some sort, or just one or more people who can encourage us along the way — helping us to keep going when we want to quit.</p>
 
 
 
-<ul class="wp-block-list">
-<li>Take a nap.</li>
+<p>We will also need a strong enough “Why” when it comes to any goal of this sort, whether it be to exercise more, loose weight, or try a new diet. Because changes in these areas often don’t come easily, and we naturally resist such changes, we need to know why we are attempting to make these changes. It should be a reason that we believe strongly in, and it should be for us, and not for someone else.</p>
 
 
 
-<li>Call a friend.</li>
+<p>One final consideration is that, if we are setting our goal based on a result that we hope to see, it could take time to reach that goal. Therefore, it may help to break larger goals into smaller goal. For example, instead of setting a goal to loose 10 pound over the next year, we may decide that we will aim at loosing one pound a month.</p>
 
 
 
-<li>Journal.</li>
-
-
-
-<li>Pray or pick up a Bible.</li>
-
-
-
-<li>Draw, crochet, cook or something else.</li>
-
-
-
-<li>Take a leisurely walk.</li>
-</ul>
-
-
-
-<p>These are just a few ideas. The thing is that some of us — myself included — have to plan things or else they just don’t happen. And, for me, even putting something on a to-do list dues’t guarantee that it will get done.</p>
-
-
-
-<p>The thing is to do something that you will enjoy doing. And keep it simple. Don’t think, as I some times do, my neighbor’s lawn needs cleaning, so I’m going to take care of that. Yes, there is a time for these things, but it cannot replace taking at least a little time to replenish ourselves.</p>
-
-
-
-<p>Can taking time off be taken to extremes? Yes, everything can. That’s probably why God limited it to one day. And when God gave us 10 commandments, taking time off was just one of them — and not even the first.</p>
-
-
-
-<p>We can keep ourselves so busy that we forget what we are doing it for. What we do, we should do out of love. Whether it’s working or taking time to help someone else, cooking, drawing or helping little old ladies across the street, we should do it out of love.</p>
-
-
-
-<p>Remember, God loved us so much that He sent His one and only son to die for us so that He could restore a broken relationship between us. Yes, God had to plan ahead. He had to sacrifice something He loved. But He loved us that much.</p>
+<p>And whichever goal we set, it’s a good idea to find some way to reward ourselves along the way, as long as it doesn’t go against our goal. Occasionally rewards can help encourage us, and help keep us going month after month.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://llgt.cafe/jesus-loves-me/feed</wfw:commentRss>
+					<wfw:commentRss>https://llgt.cafe/fitness-goals-for-the-new-year/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>God&#8217;s Design</title>
-		<link>https://llgt.cafe/gods-design</link>
-					<comments>https://llgt.cafe/gods-design#respond</comments>
+		<title>Things They Don&#8217;t  Teach in School</title>
+		<link>https://llgt.cafe/things-they-dont-teach-in-school</link>
+					<comments>https://llgt.cafe/things-they-dont-teach-in-school#respond</comments>
 		
 		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Wed, 26 Apr 2023 16:28:43 +0000</pubDate>
-				<category><![CDATA[Faith]]></category>
+		<pubDate>Thu, 03 Nov 2022 17:11:57 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Finances]]></category>
 		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Spiritual]]></category>
-		<category><![CDATA[God]]></category>
-		<category><![CDATA[King James Bible]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=759</guid>
+		<category><![CDATA[Money]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=79</guid>
 
-					<description><![CDATA[What is the most important system in our body? Is it the nervous system. Maybe it’s the respiratory system or the system of veins and arteries that carries blood through our bodies. The truth is that every part of our body serves some sort of&#160;<a class="read-more" href="https://llgt.cafe/gods-design">&#8230;</a>]]></description>
+					<description><![CDATA[There are things that I wish that they would teach us in school, or at least maybe do a better job at teaching. I’m not sure it would have done any good, but the lack of education in these areas could very well have negative&#160;<a class="read-more" href="https://llgt.cafe/things-they-dont-teach-in-school">&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
-<p>What is the most important system in our body? Is it the nervous system. Maybe it’s the respiratory system or the system of veins and arteries that carries blood through our bodies. The truth is that every part of our body serves some sort of function. And, though, we can live without certain parts of our body, no part of the body can be discounted as unimportant.</p>
+<p>There are things that I wish that they would teach us in school, or at least maybe do a better job at teaching. I’m not sure it would have done any good, but the lack of education in these areas could very well have negative side affects which could be difficult to overcome.</p>
 
 
 
-<p>Our nervous system not only allows us to do all of the things that we do consciously but also runs the parts of the body that happen without out thinking about them.</p>
+<p><strong>Finances</strong><br>I wish that schools spent a little more time teaching people how to deal with money. They certainly teach us how to figure the circumference of a triangle (that’s a joke) and how to keep score at the Friday night football game, but don’t rally teach students how to properly handle money.</p>
 
 
 
-<p>Our digestive system takes nutrients and helps feed each and every cell of our body, and it is the blood that is carried though veins that brings this food to the cells.</p>
+<p>My grandfather was good at handling money, and so is my father. Me, I didn’t get any of that passed down. And I didn’t learn anything in the public schools about handling money, how to get it, how to grow it or how to hang on to it. The worst part is that I’ve since had people show me how to handle money and, for me, it’s one of those areas where it’s much easier said than done.</p>
 
 
 
-<p>It is the respiratory system that brings oxygen to our cells, without which we cannot survive. But even the smallest part of our body serve a purpose.</p>
+<p><strong>Health</strong><br>Now, I did spend some time on the swim team when I was in high school, and I was average at best. I expect that it helped over the long run, but I haven’t swam like that in years. In fact, the last time I swam in a competition was nearly 30 years ago. I remember being as high as a kite on endorphins. It’s kind of funny, now that I think about it.</p>
 
 
 
-<p>The human body is pretty forgiving, allowing us to make unwise choices for some time. Yet, over time, these choices take a toll on our body. Smoking limits our ability to breath properly, poor diet choices can lead to having extra weight, diabetes, and other issues. A lack of exercise can also negatively affect our health and, as we get older, it can be difficult to overcome the effects of the choices that we have made in the past.</p>
+<p>Most of us don’t get enough information on physical fitness, or on the benefits of a healthy diet. We are fed, however, a constant diet of commercials about fast food and kept on a treadmill that limits that amount of time that we have to enjoy a proper meal. And real exercise is almost out of the question unless we force ourselves to make that choice.</p>
 
 
 
-<p>Think of it as financial investing. The earlier we get started making the right choices, the better off we will be in the long run. That isn’t to say that things don’t happen that are out of our control. Cancer can come along and take anyone down. Sickness and disease don’t care who you are. But the better we take care of ourselves, the better the choices that we make, the better a chance of living healthy lives as we grow older.</p>
+<p><strong>Communication</strong><br>It seems like a simple skill, but fewer things can casue more problems in life than a failure to properly communicate: to both understand and be understood. A lack of communication skills likely cost US businesses millions, if not billions of dollars, and is likely responsible for much of the divorce that occurs in the Untied States.</p>
 
 
 
-<p>Here is another: “Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.” — Exodus 20:12 (KJV) How we treat others, especially our parents, has an impact on our health. Our thought lead to actions, our actions lead to routines and our routines help determine our quality of life.</p>
+<p>Unfortunately, it seems that this skill isn’t getting any more prolific but is on the decline. Rather than being kind to one another, it’s more common to be angry or resentful, or down right nasty to one another. Common courteously just isn’t as common as it used to be.</p>
 
 
 
-<p>And don’t forget sleep. Our bodies also need rest. On the seventh day, God rested from the work that he had done, and our bodies and minds need rest too. Speaking of which, I think there’s still enough time for a nap.</p>
+<p>There is good news. It we can still learn how to be better with finances. We can improve our health. And we can learn better ways of communication. It’s not to late to start making changes in our lives that can make our lives better in all sorts of ways. Yet, I cannot expect you to make the necessary changes in my life. I can’t just sit around, blaming others for my own shortcomings. It’s up to me to take the initiative. I have to take the first steps to start my own journey.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://llgt.cafe/gods-design/feed</wfw:commentRss>
+					<wfw:commentRss>https://llgt.cafe/things-they-dont-teach-in-school/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
