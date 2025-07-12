@@ -1,53 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>News</title>
-	<atom:link href="https://llgt.cafe/category/news/feed" rel="self" type="application/rss+xml" />
-	<link>https://llgt.cafe</link>
+	<title>
+	Comments on: News	</title>
+	<atom:link href="https://llgt.cafe/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe/news</link>
 	<description></description>
-	<lastBuildDate>Mon, 22 Jul 2024 14:53:06 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Mon, 08 Jul 2024 12:59:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.1</generator>
-	<item>
-		<title>Crowd</title>
-		<link>https://llgt.cafe/crowd</link>
-					<comments>https://llgt.cafe/crowd#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2024 14:53:06 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Poetry]]></category>
-		<category><![CDATA[LLGT]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=1189</guid>
-
-					<description><![CDATA[Did you hear the newsThe cheers and booosFor the man named JoeWill not runWill not towThe race to flow The crowd may sayRunJoe runYesIt will beSo much funTo beat the opponentAt his won gameTo win the raceOf fortune and fame You’re half way thereAs people&#160;<a class="read-more" href="https://llgt.cafe/crowd">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>Did you hear the news<br>The cheers and booos<br>For the man named Joe<br>Will not run<br>Will not tow<br>The race to flow</p>
-
-
-
-<p>The crowd may say<br>Run<br>Joe run<br>Yes<br>It will be<br>So much fun<br>To beat the opponent<br>At his won game<br>To win the race<br>Of fortune and fame</p>
-
-
-
-<p>You’re half way there<br>As people do start<br>And wonder<br>What’s next<br>Or<br>What the heck<br>Happened to Joe<br>To make<br>Him so slow<br>To make the choice<br>To tell the crowd<br>No<br>I will will not run<br>It will not be fun<br>To beat my opponent<br>I’ve already won<br>Once<br>And that’s enough<br>I’m through with this race<br>It’s time to go home</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/crowd/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
