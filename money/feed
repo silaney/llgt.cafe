@@ -1,75 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>Money</title>
-	<atom:link href="https://llgt.cafe/tag/money/feed" rel="self" type="application/rss+xml" />
-	<link>https://llgt.cafe</link>
+	<title>
+	Comments on: Money	</title>
+	<atom:link href="https://llgt.cafe/money/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe/money</link>
 	<description></description>
-	<lastBuildDate>Thu, 03 Nov 2022 17:11:57 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Tue, 20 Aug 2024 15:37:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.1</generator>
-	<item>
-		<title>Things They Don&#8217;t  Teach in School</title>
-		<link>https://llgt.cafe/things-they-dont-teach-in-school</link>
-					<comments>https://llgt.cafe/things-they-dont-teach-in-school#respond</comments>
-		
-		<dc:creator><![CDATA[llgt]]></dc:creator>
-		<pubDate>Thu, 03 Nov 2022 17:11:57 +0000</pubDate>
-				<category><![CDATA[Education]]></category>
-		<category><![CDATA[Communication]]></category>
-		<category><![CDATA[Finances]]></category>
-		<category><![CDATA[Health]]></category>
-		<category><![CDATA[Money]]></category>
-		<guid isPermaLink="false">https://llgt.cafe/?p=79</guid>
-
-					<description><![CDATA[There are things that I wish that they would teach us in school, or at least maybe do a better job at teaching. I’m not sure it would have done any good, but the lack of education in these areas could very well have negative&#160;<a class="read-more" href="https://llgt.cafe/things-they-dont-teach-in-school">&#8230;</a>]]></description>
-										<content:encoded><![CDATA[
-<p>There are things that I wish that they would teach us in school, or at least maybe do a better job at teaching. I’m not sure it would have done any good, but the lack of education in these areas could very well have negative side affects which could be difficult to overcome.</p>
-
-
-
-<p><strong>Finances</strong><br>I wish that schools spent a little more time teaching people how to deal with money. They certainly teach us how to figure the circumference of a triangle (that’s a joke) and how to keep score at the Friday night football game, but don’t rally teach students how to properly handle money.</p>
-
-
-
-<p>My grandfather was good at handling money, and so is my father. Me, I didn’t get any of that passed down. And I didn’t learn anything in the public schools about handling money, how to get it, how to grow it or how to hang on to it. The worst part is that I’ve since had people show me how to handle money and, for me, it’s one of those areas where it’s much easier said than done.</p>
-
-
-
-<p><strong>Health</strong><br>Now, I did spend some time on the swim team when I was in high school, and I was average at best. I expect that it helped over the long run, but I haven’t swam like that in years. In fact, the last time I swam in a competition was nearly 30 years ago. I remember being as high as a kite on endorphins. It’s kind of funny, now that I think about it.</p>
-
-
-
-<p>Most of us don’t get enough information on physical fitness, or on the benefits of a healthy diet. We are fed, however, a constant diet of commercials about fast food and kept on a treadmill that limits that amount of time that we have to enjoy a proper meal. And real exercise is almost out of the question unless we force ourselves to make that choice.</p>
-
-
-
-<p><strong>Communication</strong><br>It seems like a simple skill, but fewer things can casue more problems in life than a failure to properly communicate: to both understand and be understood. A lack of communication skills likely cost US businesses millions, if not billions of dollars, and is likely responsible for much of the divorce that occurs in the Untied States.</p>
-
-
-
-<p>Unfortunately, it seems that this skill isn’t getting any more prolific but is on the decline. Rather than being kind to one another, it’s more common to be angry or resentful, or down right nasty to one another. Common courteously just isn’t as common as it used to be.</p>
-
-
-
-<p>There is good news. It we can still learn how to be better with finances. We can improve our health. And we can learn better ways of communication. It’s not to late to start making changes in our lives that can make our lives better in all sorts of ways. Yet, I cannot expect you to make the necessary changes in my life. I can’t just sit around, blaming others for my own shortcomings. It’s up to me to take the initiative. I have to take the first steps to start my own journey.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://llgt.cafe/things-they-dont-teach-in-school/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
