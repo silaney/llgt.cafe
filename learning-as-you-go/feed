@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Hobbies	</title>
-	<atom:link href="https://llgt.cafe/hobbies/feed" rel="self" type="application/rss+xml" />
-	<link>https://llgt.cafe/hobbies</link>
+	Comments on: Learning As You Go	</title>
+	<atom:link href="https://llgt.cafe/learning-as-you-go/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe/learning-as-you-go</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Jan 2023 16:03:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2023 19:00:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
