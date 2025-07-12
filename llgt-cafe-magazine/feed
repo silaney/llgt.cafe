@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LLGT Cafe Magazine</title>
+	<atom:link href="https://llgt.cafe/category/llgt-cafe-magazine/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Sun, 25 Aug 2024 23:53:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>LLGT Cafe (Magazine) August 2024</title>
+		<link>https://llgt.cafe/llgt-cafe-magazine-august-2024</link>
+					<comments>https://llgt.cafe/llgt-cafe-magazine-august-2024#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2024 16:52:22 +0000</pubDate>
+				<category><![CDATA[Fitness]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[Fun Facts]]></category>
+		<category><![CDATA[LLGT Cafe Magazine]]></category>
+		<category><![CDATA[LLGT]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=1209</guid>
+
+					<description><![CDATA[It&#8217;s been too long since I&#8217;ve put together a magazine, but the August 2024 issue of LLGT Cafe is here. I hope you enjoy it as much as I&#8217;ve enjoyed putting it together. Ralph]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://llgt.cafe/wp-content/uploads/2024/07/LLGT-Cafe-20248.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of LLGT Cafe 2024:8."></object><a id="wp-block-file--media-1faa0c3e-61a6-44ca-bcb6-4efa662dc1ba" href="https://llgt.cafe/wp-content/uploads/2024/07/LLGT-Cafe-20248.pdf">LLGT Cafe 2024:8</a><a href="https://llgt.cafe/wp-content/uploads/2024/07/LLGT-Cafe-20248.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1faa0c3e-61a6-44ca-bcb6-4efa662dc1ba">Download</a></div>
+
+
+
+<p>It&#8217;s been too long since I&#8217;ve put together a magazine, but the August 2024 issue of LLGT Cafe is here.  I hope you enjoy it as much as I&#8217;ve enjoyed putting it together.  </p>
+
+
+
+<p>Ralph</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/llgt-cafe-magazine-august-2024/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
