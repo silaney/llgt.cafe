@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>art</title>
+	<atom:link href="https://llgt.cafe/tag/art/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Aug 2024 14:42:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>American Artist Appreciation Month</title>
+		<link>https://llgt.cafe/american-artist-appreciation-month</link>
+					<comments>https://llgt.cafe/american-artist-appreciation-month#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 14:41:45 +0000</pubDate>
+				<category><![CDATA[Art and Artists]]></category>
+		<category><![CDATA[Hobbies]]></category>
+		<category><![CDATA[Holidays]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[LLGT]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=1230</guid>
+
+					<description><![CDATA[August is American Artist Appreciation Month. Do you have any favorite artists? I do. But I must say that some of my favorite artist are from Canada. Sarah McLachlan, Marie-Louise Gay and Ann Marie McDonald are just a few. But I really like the work&#160;<a class="read-more" href="https://llgt.cafe/american-artist-appreciation-month">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>August is American Artist Appreciation Month. Do you have any favorite artists? I do. But I must say that some of my favorite artist are from Canada. Sarah McLachlan, Marie-Louise Gay and Ann Marie McDonald are just a few. But I really like the work of David Burnett, an American Photographer known for photographing subjects from presidents to Olympians. Here are a few more of my favorite (and some other well known) American artists.</p>
+
+
+
+<p>Norman Rockwell, born February 3, 1894 in New York City, died November 8, 1978 in Stockbridge, MA at the age of 84. Rockwell was best known for his painting and illustrations depicting American life, especially for his work for The Saturday Evening Post.</p>
+
+
+
+<p>Georgia O’Keefe, born November 15, 1887 in Sun Prairie, WI and died March 6, 1986 in Santa Fe, NM. Her work was primarily American modern, now graces some of the world’s greatest art collections.</p>
+
+
+
+<p>Jacob Lawrence was born September 7, 1917 in Atlantic City, NY and died June 9 2000 in Seattle, WA. Calling his work “dynamic cubism”, Lawrence was best known for his depictions of African-American history.</p>
+
+
+
+<p>These are just a few artists. My favorite art forms — the things that I do best, include writing, cooking and photography. These are things that I enjoy doing for myself and for others to (perhaps) enjoy.</p>
+
+
+
+<p>What form of art do you enjoy and who are your favorite artists? Please comment below. Thanks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/american-artist-appreciation-month/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>A Poem</title>
+	<atom:link href="https://llgt.cafe/tag/a-poem/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe</link>
+	<description></description>
+	<lastBuildDate>Sun, 05 Mar 2023 17:59:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>life is</title>
+		<link>https://llgt.cafe/life-is</link>
+					<comments>https://llgt.cafe/life-is#respond</comments>
+		
+		<dc:creator><![CDATA[llgt]]></dc:creator>
+		<pubDate>Sun, 05 Mar 2023 17:59:50 +0000</pubDate>
+				<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[A Poem]]></category>
+		<category><![CDATA[LLGT]]></category>
+		<guid isPermaLink="false">https://llgt.cafe/?p=550</guid>
+
+					<description><![CDATA[life isa puzzlethat we are still putting togethertaking apartand trying to put back togetherlooking forthe missing peacesor partsthat we just can’t seethat don’t fitor don’t belongthat shouldn’t beyet make us strong life isa questionthat we askand cannot findthe answers yetthe whysand howsthe whensor wheresand answersthat&#160;<a class="read-more" href="https://llgt.cafe/life-is">&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>life is<br>a puzzle<br>that we are still putting together<br>taking apart<br>and trying to put back together<br>looking for<br>the missing peaces<br>or parts<br>that we just can’t see<br>that don’t fit<br>or don’t belong<br>that shouldn’t be<br>yet make us strong</p>
+
+
+
+<p>life is<br>a question<br>that we ask<br>and cannot find<br>the answers yet<br>the whys<br>and hows<br>the whens<br>or wheres<br>and answers<br>that seem just out of reach<br>yet we ask them still<br>each day<br>and hope for answers<br>just out of reach</p>
+
+
+
+<p>life is<br>a painting<br>a photo<br>a book we read<br>a movie we watch<br>a conversation we have<br>a story we tell<br>a meal we eat<br>a day we live<br>one day<br>a home<br>a visit<br>a place we leave<br>a place we stay</p>
+
+
+
+<p>life is<br>knowing<br>and not knowing<br>laughing<br>crying<br>hoping<br>sharing<br>bearing<br>giving<br>and taking</p>
+
+
+
+<p>life is<br>a journey<br>to a place<br>a time<br>a state of being<br>with no reason or rhyme<br>where we hope to be<br>better<br>richer<br>stronger<br>or maybe just smarter<br>than we were today</p>
+
+
+
+<p>life is<br>a gift<br>that we open up<br>one day at a time<br>to see what we will get<br>and like it or not<br>we can not return<br>or exchange<br>there’s no receipt<br>and victory<br>or defeat<br>it is what it is</p>
+
+
+
+<p>life is<br>the story we tell<br>to others<br>to ourselves<br>of days gone by<br>of days yet to come<br>of fears<br>and hopes<br>of victories<br>yet won<br>of lies<br>and deceit<br>of doubt<br>without reason<br>of good<br>and of bad<br>of brokenness<br>and of sad</p>
+
+
+
+<p>life is<br>awake<br>and asleep<br>dreaming<br>daring<br>hoping<br>that tomorrow<br>will be better<br>than yesterday</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://llgt.cafe/life-is/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
