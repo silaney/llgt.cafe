@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Habits	</title>
-	<atom:link href="https://llgt.cafe/habits/feed" rel="self" type="application/rss+xml" />
-	<link>https://llgt.cafe/habits</link>
+	Comments on: Fact or Fiction	</title>
+	<atom:link href="https://llgt.cafe/fact-or-fiction/feed" rel="self" type="application/rss+xml" />
+	<link>https://llgt.cafe/fact-or-fiction</link>
 	<description></description>
-	<lastBuildDate>Sat, 29 Oct 2022 21:05:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Apr 2023 16:38:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
